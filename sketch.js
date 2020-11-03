@@ -54,4 +54,5 @@ function draw(){
    }
 
     umbrella.display();
+    drops.display();
 }
